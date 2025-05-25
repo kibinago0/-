@@ -1,5 +1,5 @@
 # Taiko-Senpai
 
-太鼓先輩
+タイコ先輩
 
 https://kibinago0.github.io/Taiko-Senpai/
